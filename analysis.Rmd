@@ -227,7 +227,3 @@ PracticalMachineLearning
 - GitHub will host your HTML report at:  
   **https://yourusername.github.io/PracticalMachineLearning/**
 
----
-
-Would you like me to give you the **exact Git and GitHub commands** (copy-paste terminal steps) to set up, commit, and publish the repo for Coursera submission?
-````
